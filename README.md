@@ -1,6 +1,6 @@
 ## Scientific Calculator using [Arduino Uno](https://www.arduino.cc/)
 
-In this, we are trying to make a calculator using Arduino as microcontroller, 4x4 Keypad as input and LCD as output. 
+In this, we are trying to make a calculator using Arduino as microcontroller, 4x4 Keypad as input and LCD as output. This is implementated using TinkerCad Stimualtion software and Eagle EAD software for PCB Design.
 
 ### Part 1: Components
 
@@ -29,8 +29,7 @@ In this, we are trying to make a calculator using Arduino as microcontroller, 4x
 
 After simulation, we press a no. between 1 to 11 to select an operation.
 
-<dt>justify</dt>
-<dd>Case-1: If the selected no. is from 1 to 4 then an operation is selected, then we press any no. as the first operand and then we press “D”, so that it stop taking input for the 1st operand, then we press other no. as the second operand, then we again press “D” to stop taking input for the second operand and then the output is displayed on the LCD.</dd>
+Case-1: If the selected no. is from 1 to 4 then an operation is selected, then we press any no. as the first operand and then we press “D”, so that it stop taking input for the 1st operand, then we press other no. as the second operand, then we again press “D” to stop taking input for the second operand and then the output is displayed on the LCD.
 
 Case-2: If the selected no. is from 5 to 10 then an operation is selected, then we press any no. as the first operand and then we press “D” to stop taking input for the operand and then the output is displayed on the LCD.
 
