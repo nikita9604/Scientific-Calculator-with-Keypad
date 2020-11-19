@@ -14,6 +14,9 @@ In this, we are trying to make a calculator using Arduino as microcontroller, 4x
 
 ### Part 2: Software Implementation
 
+<div align='center'>
+<img src = 'examples/diagram.png' height="400px">
+</div>
 
 ### Part 3: PCB Design
 
