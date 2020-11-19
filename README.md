@@ -47,3 +47,7 @@ The PCB Designing involves 3 steps:
 <div align='center'>
 <img src = 'examples/pcb_design.PNG' height="300px">
 </div>
+
+### Conclusion
+
+Thus, we have connected and successfully demonstrated a scientific calculator with different operations as well as different number of operands with Arduino Uno using Tinkercad circuits simulator and Eagle Designing Software.
